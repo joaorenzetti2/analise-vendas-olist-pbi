@@ -29,4 +29,5 @@ Utilizei o conceito de **Star Schema**, conectando tabelas de dimensões (Client
 * **Ticket Médio:** Razão entre o faturamento total e o número de pedidos
 
 ## 📊 Visualização
-<img width="1411" height="792" alt="dashboard" src="https://github.com/user-attachments/assets/902eba85-ce4c-435d-8ffe-e43441056efd" />
+<img width="1400" height="785" alt="dash2" src="https://github.com/user-attachments/assets/8b73afb0-0f94-4418-8058-da395120d83b" />
+
